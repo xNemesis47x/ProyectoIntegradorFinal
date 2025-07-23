@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Boat
-  m_Shader: {fileID: 4800000, guid: 931d77f4e2d193041a8c72eaa340d848, type: 3}
+  m_Name: BlastoiseCaparazon
+  m_Shader: {fileID: 4800000, guid: f58f3bc39639efd4da6c2fd71dc30989, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -16,7 +16,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 2000
   stringTagMap: {}
   disabledShaderPasses: []
   m_LockedProperties: 
@@ -24,7 +24,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Texture0:
-        m_Texture: {fileID: 2800000, guid: ed1afc9d9071a6a45acceb20c17e017e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 108379f215a507343ab3c51f5b38103e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -33,9 +33,6 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Amplitud: 0.0002
-    - _Ang: 0.06
-    - _Speed: 2
     - __dirty: 0
     m_Colors: []
   m_BuildTextureStacks: []

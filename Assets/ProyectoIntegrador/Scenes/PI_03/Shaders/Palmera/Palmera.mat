@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Boat
-  m_Shader: {fileID: 4800000, guid: 931d77f4e2d193041a8c72eaa340d848, type: 3}
+  m_Name: Palmera
+  m_Shader: {fileID: 4800000, guid: 1ffde830de4df2c42a8d46d1413f1c1d, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -24,7 +24,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Texture0:
-        m_Texture: {fileID: 2800000, guid: ed1afc9d9071a6a45acceb20c17e017e, type: 3}
+        m_Texture: {fileID: 2800000, guid: c5f1f2e8c3b8af84090af6cb3c3e1181, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -33,10 +33,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Amplitud: 0.0002
-    - _Ang: 0.06
-    - _Speed: 2
+    - _Speed: 1.6
     - __dirty: 0
-    m_Colors: []
+    m_Colors:
+    - _Viento: {r: 0.02, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
