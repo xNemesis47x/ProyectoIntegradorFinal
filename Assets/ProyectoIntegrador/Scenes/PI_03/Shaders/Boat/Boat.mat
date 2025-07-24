@@ -36,7 +36,7 @@ Material:
     - _Amplitud: 0.0002
     - _Ang: 0.06
     - _Speed: 2
-    - __dirty: 0
+    - __dirty: 1
     m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1
