@@ -56,13 +56,13 @@ Material:
     - _StencilWriteMask: 255
     - _Step: 0.4
     - _UseUIAlphaClip: 0
-    - __dirty: 0
+    - __dirty: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color0: {r: 1, g: 1, b: 1, a: 0}
     - _Color1: {r: 0.9811321, g: 0.96250767, b: 0.6525454, a: 1}
     - _Color2: {r: 0.99056596, g: 0.9874658, b: 0.8924439, a: 0}
-    - _Color3: {r: 0.3333322, g: 0.9589847, b: 1, a: 0}
+    - _Color3: {r: 0.33333218, g: 0.9589847, b: 1, a: 0}
     - _Color4: {r: 0, g: 0, b: 0, a: 1}
     - _Puntis: {r: 1, g: 0.78194314, b: 0.3647059, a: 0}
     - _Vector0: {r: 7.3, g: 0, b: 0, a: 0}
