@@ -38,17 +38,18 @@ Material:
     m_Ints: []
     m_Floats:
     - _Amplitude: 0.09
+    - _Caras: 0.99
     - _EdgeLength: 50
-    - _Float1: 0.99
+    - _Float1: 0.88
     - _Speed: 0.1
     - _TransparenciaSide: 0.3
     - _Transparenciatop: 0.62
     - __dirty: 0
-    - _power: 0.08
-    - _scale: 0.28
+    - _power: 1.82
+    - _scale: 1.18
     m_Colors:
     - _Color0: {r: 0, g: 0.6132076, b: 0.5309481, a: 0}
-    - _Color1: {r: 1, g: 0.63422245, b: 0.033018887, a: 0}
+    - _Color1: {r: 0.9056604, g: 0.5646627, b: 0, a: 0}
     - _Color2: {r: 0, g: 1, b: 0.8666668, a: 0}
     - _Vector1: {r: 0, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
